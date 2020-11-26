@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metabolomics on DW Blog</title>
+    <link>https://dwgoblue.github.io/tags/metabolomics/</link>
+    <description>Recent content in metabolomics on DW Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© All rights reserved - 2020</copyright>
+    <lastBuildDate>Wed, 25 Nov 2020 23:59:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://dwgoblue.github.io/tags/metabolomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oxygen Regulates Human Pluripotent Stem Cell Metabolic Flux</title>
+      <link>https://dwgoblue.github.io/post/oxygen-regulates-human-pluripotent-stem-cell-metabolic-flux/</link>
+      <pubDate>Wed, 25 Nov 2020 23:59:13 -0500</pubDate>
+      
+      <guid>https://dwgoblue.github.io/post/oxygen-regulates-human-pluripotent-stem-cell-metabolic-flux/</guid>
+      <description>Human pluripotent stem cells (hPSC) is assumed to well manage their resources via metabolic machinary for differentiation. In terms of energy production and consumption, oxygen plays a crucial role but is limited in the embryo. Although previous works have investigated metabolism in hPSC with 20% oxygen (atmospheric level), the physiological oxygen level was measured at about 5% which is much lower than the concentration used in the previous experimental setting. To get more percise metabolic dynamics during hPSC development, the auther compared the cells under two different oxygen levels, 5% and 20%.</description>
+    </item>
+    
+  </channel>
+</rss>
