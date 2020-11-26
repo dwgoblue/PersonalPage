@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on DW Blog</title>
+    <link>https://dwgoblue.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on DW Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© All rights reserved - 2020</copyright>
+    <lastBuildDate>Sat, 08 Feb 2020 22:07:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://dwgoblue.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build Github webpage by Hugo</title>
+      <link>https://dwgoblue.github.io/post/build-gitpage-by-hugo/</link>
+      <pubDate>Sat, 08 Feb 2020 22:07:46 +0800</pubDate>
+      
+      <guid>https://dwgoblue.github.io/post/build-gitpage-by-hugo/</guid>
+      <description>Overview Github offers users a space to build personal pages. Their initial intention is to encourage users recording and sharing their works on Github so as to make the community thriving. While it should be static site hosting which means a front-end page without connections to backend, one could easily and fast initialize a personal website by build-in template, user-defined projects or static site generators such as Hugo and jekyll. I will focus on Hugo in this article.</description>
+    </item>
+    
+  </channel>
+</rss>
