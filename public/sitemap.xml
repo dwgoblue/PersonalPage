@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dwgoblue.github.io/post/oxygen-regulates-human-pluripotent-stem-cell-metabolic-flux/</loc>
+    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dwgoblue.github.io/post/</loc>
+    <lastmod>2020-11-25T23:59:13-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dwgoblue.github.io/about/</loc>
     <lastmod>2020-07-12T19:20:21+08:00</lastmod>
   </url>
@@ -24,11 +34,6 @@
   
   <url>
     <loc>https://dwgoblue.github.io/tags/hugo/</loc>
-    <lastmod>2020-02-08T22:07:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dwgoblue.github.io/post/</loc>
     <lastmod>2020-02-08T22:07:46+08:00</lastmod>
   </url>
   
